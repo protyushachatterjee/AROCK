@@ -1,9 +1,10 @@
 import React from 'react'
+import logo from '../../assets/logo.png' // Adjust the path as necessary
 
 const Logo = () => {
   return (
-    <div className='font-[a4] text-[0.8rem] tracking-tighter uppercase'>
-      Logo
+    <div className='w-15 h-15'>
+      <img className='w-full h-full object-contain' src={logo} alt="" />
     </div>
   )
 }
