@@ -15,27 +15,27 @@ const Menuleft = () => {
             >
                 <img
                     className="absolute opacity-10 scale-[0.97] w-full h-full object-cover object-center"
-                    src="https://images.prismic.io/arock-website-2023/d4147892-cb03-4582-af32-326bb109803f_AROCK-_1502.jpg?fm=webp&q=100&fit=crop"
+                    src="https://images.prismic.io/arock-website-2023/9ef06a29-91de-4fb2-bb2a-2d208f8fcc2a_AROCK-_1497.jpg?fm=webp&q=100&fit=crop"
                     alt=""
                 />
                 <img
                     className="absolute opacity-20 scale-[0.95] w-full h-full object-cover object-center"
-                    src="https://images.prismic.io/arock-website-2023/d4147892-cb03-4582-af32-326bb109803f_AROCK-_1502.jpg?fm=webp&q=100&fit=crop"
+                    src="https://images.prismic.io/arock-website-2023/9ef06a29-91de-4fb2-bb2a-2d208f8fcc2a_AROCK-_1497.jpg?fm=webp&q=100&fit=crop"
                     alt=""
                 />
                 <img
                     className="absolute opacity-30 scale-[0.91] w-full h-full object-cover object-center"
-                    src="https://images.prismic.io/arock-website-2023/d4147892-cb03-4582-af32-326bb109803f_AROCK-_1502.jpg?fm=webp&q=100&fit=crop"
+                    src="https://images.prismic.io/arock-website-2023/9ef06a29-91de-4fb2-bb2a-2d208f8fcc2a_AROCK-_1497.jpg?fm=webp&q=100&fit=crop"
                     alt=""
                 />
                 <img
                     className="absolute opacity-40 scale-[0.88] w-full h-full object-cover object-center"
-                    src="https://images.prismic.io/arock-website-2023/d4147892-cb03-4582-af32-326bb109803f_AROCK-_1502.jpg?fm=webp&q=100&fit=crop"
+                    src="https://images.prismic.io/arock-website-2023/9ef06a29-91de-4fb2-bb2a-2d208f8fcc2a_AROCK-_1497.jpg?fm=webp&q=100&fit=crop"
                     alt=""
                 />
                 <img
                     className="absolute opacity-50 w-full h-full object-cover object-center"
-                    src="https://images.prismic.io/arock-website-2023/d4147892-cb03-4582-af32-326bb109803f_AROCK-_1502.jpg?fm=webp&q=100&fit=crop"
+                    src="https://images.prismic.io/arock-website-2023/9ef06a29-91de-4fb2-bb2a-2d208f8fcc2a_AROCK-_1497.jpg?fm=webp&q=100&fit=crop"
                     alt=""
                 />
             </motion.div>
